@@ -1,0 +1,664 @@
+,ExpectedNumberOfAwards,AgencyName
+0,8.0,03162009-KV
+1,1.0,08092011-kj-test
+2,7412.0,69A345 Office of the Under Secretary for Policy
+3,76.0,69A350 OSDBU
+4,105.0,69A355 Research and Technology
+5,50.0,ACC APG - Natick
+6,201.0,ACC-APG-Aberdeen Division A
+7,1.0,ACC-APG-Belvoir
+8,85.0,ACC-APG-Detrick
+9,2.0,ACC-APG-Edgewood
+10,5.0,ACC-APG-Fort Huachuca
+11,108.0,AFRL Kirtland AFB
+12,2931.0,Administration for Children & Families - ACYF/FYSB
+13,6166.0,Administration for Children and Families
+14,291.0,Administration for Children and Families - ACYF/CB
+15,398.0,Administration for Children and Families - ANA
+16,163.0,Administration for Children and Families - OCC
+17,448.0,Administration for Children and Families - OCS
+18,113.0,Administration for Children and Families - OCSE
+19,13.0,Administration for Children and Families - OCSS
+20,394.0,Administration for Children and Families - OFA
+21,2000.0,Administration for Children and Families - OHS
+22,1.0,Administration for Children and Families - OHSEPR
+23,424.0,Administration for Children and Families - OPRE
+24,1422.0,Administration for Children and Families - ORR
+25,70.0,Administration for Children and Families-IOAS-OTIP
+26,3391.0,Administration for Community Living
+27,1602.0,Administration on Aging
+28,1697.0,Advanced Research Projects Agency Energy 
+29,611.0,Advanced Research Projects Agency for Health
+30,93.0,Afghanistan USAID-Kabul
+31,1234.0,Africa Regional Services
+32,928.0,Agency for Health Care Research and Quality
+33,3389.0,Agency for International Development
+34,206371.0,Agricultural Marketing Service
+35,130.0,Agricultural Trade Promotion Program 10.618
+36,4.0,Air Force -- Materiel Command
+37,644.0,Air Force -- Research Lab
+38,308.0,Air Force Academy
+39,12205692.0,Air Force Office of Scientific Research
+40,2.0,Airport Improvement Program Discretionary Grants
+41,89.0,Alaska District
+42,2.0,Albania USAID-Tirana
+43,175.0,AmeriCorps
+44,223.0,Animal and Plant Health Inspection Service
+45,82.0,Armenia USAID-Yerevan
+46,2.0,Army Contracting Command - Benet Laboratories
+47,1.0,Army Contracting Command - New Jersey
+48,1.0,Army Contracting Command Rock Island
+49,587.0,Assistance Coordination
+50,6.0,Assistant Secretary for Planning and Evaluation
+51,510.0,Assistant Secretary for Preparedness and Response
+52,220.0,Aviation Workforce Development Grant Program
+53,22.0,Azerbaijan USAID-Baku
+54,100085.0,Bangladesh USAID-Dhaka
+55,17.0,Benin USAID-Cotonou
+56,13.0,Bolivia USAID-La Paz
+57,66.0,Bosnia USAID-Herzegovina
+58,8.0,Brazil USAID-Brasilia
+59,1408.0,Bureau Of Educational and Cultural Affairs
+60,147.0,Bureau of African Affairs
+61,34.0,Bureau of Conflict Stabilization Operations
+62,122.0,Bureau of Counterterrorism 
+63,5.0,Bureau of Cyberspace and Digital Policy
+64,1404.0,Bureau of Democracy Human Rights and Labor
+65,18.0,Bureau of Diplomatic Security
+66,56.0,Bureau of East Asian and Pacific Affairs 
+67,16.0,Bureau of Economic and Business Affairs
+68,16.0,Bureau of Energy Resources
+69,286.0,Bureau of European and Eurasian Affairs
+70,151.0,Bureau of Global Public Affairs
+71,19.0,Bureau of Human Resources
+72,2069.0,Bureau of Indian Affairs
+73,156.0,Bureau of Intelligence and Research
+74,202.0,Bureau of International Labor Affairs
+75,833.0,Bureau of International Narcotics-Law Enforcement
+76,2247.0,Bureau of International Security-Nonproliferation
+77,24291.0,Bureau of Justice Assistance
+78,1841.0,Bureau of Justice Statistics
+79,1967341.0,Bureau of Land Management
+80,7.0,Bureau of Near Eastern Affairs
+81,116.0,Bureau of Ocean Energy Management
+82,243.0,Bureau of Ocean Energy Management 
+83,262.0,Bureau of Oceans - Int. Environmental - Scientific
+84,2.0,Bureau of Political-Military Affairs - GPI
+85,168.0,Bureau of Political-Military Affairs - WRA
+86,759.0,Bureau of Population Refugees and Migration
+87,106715.0,Bureau of Reclamation
+88,253.0,Bureau of Reclamation - Denver Office
+89,127.0,Bureau of Reclamation - Great Plains Region
+90,200291.0,Bureau of Reclamation - Lower Colorado Region
+91,338.0,Bureau of Reclamation - Mid-Pacific Region
+92,193.0,Bureau of Reclamation - Pacific Northwest Region
+93,122.0,Bureau of Reclamation - Upper Colorado Region
+94,260.0,"Bureau of Reclamation, Denver Office"
+95,49.0,"Bureau of Reclamation, Mid-Pacific Regional Office"
+96,27.0,Bureau of Reclamation-Upper Columbia Area Office
+97,8.0,Bureau of Safety and Environmental Enforcement
+98,511.0,Bureau of South and Central Asian Affairs
+99,67.0,Bureau of Western Hemisphere Affairs
+100,12.0,Burma USAID - Rangoon
+101,21.0,Burundi USAID-Bujumbura
+102,6.0,CEERD-CERL
+103,86.0,CENTERS FOR DISEASE CONTROL  CSTLTS
+104,51.0,CMS Consumer Operated and Oriented Plan Program
+105,860.0,CMS-Consumer Information & Insurance Oversight
+106,1398.0,CSREES
+107,83.0,California State Office
+108,76.0,Cambodia USAID-Phnom Penh
+109,144.0,Centers for Disease Control - ATSDR
+110,13.0,Centers for Disease Control - CFA
+111,2764.0,Centers for Disease Control - CGH
+112,274.0,Centers for Disease Control - CSELS
+113,452.0,Centers for Disease Control - NCBDDD
+114,2317.0,Centers for Disease Control - NCCDPHP
+115,611.0,Centers for Disease Control - NCEH
+116,476.0,Centers for Disease Control - NCEZID
+117,1569.0,Centers for Disease Control - NCHHSTP
+118,52.0,Centers for Disease Control - NCHS
+119,2087.0,Centers for Disease Control - NCIPC
+120,512.0,Centers for Disease Control - NCIRD
+121,1.0,Centers for Disease Control - NIOSH
+122,19.0,Centers for Disease Control - OD
+123,492.0,Centers for Disease Control - OPHPR
+124,72.0,Centers for Disease Control - ORR
+125,1416.0,Centers for Disease Control - OSTLTS
+126,8189309.0,Centers for Disease Control and Prevention
+127,1504698.0,Centers for Disease Control and Prevention - ERA
+128,7.0,Centers for Disease Control-GHC
+129,1753.0,Centers for Medicare & Medicaid Services
+130,1245.0,Chicago Service Center
+131,61.0,Cochran Fellowship Prog-Intl Trng 10.962
+132,48.0,Colombia USAID-Bogota
+133,156.0,Colorado State Office
+134,2.0,Community Capacity Development Office
+135,7361.0,Community Development Financial Institutions
+136,4538.0,Community Oriented Policing Services
+137,1.0,Construction of State Home Facilities
+138,163.0,Consumer Product Safety Commission
+139,11316.0,Corporation for National and Community Service
+140,5.0,Cote d Ivoire USAID - Abidjan
+141,133.0,DARPA - Biological Technologies Office
+142,253.0,DARPA - Defense Sciences Office
+143,93.0,DARPA - Information Innovation Office
+144,9.0,DARPA - Information Processing Technology Office
+145,403.0,DARPA - Microsystems Technology Office 
+146,18.0,DARPA - Strategic Technology Office
+147,28.0,DARPA - Tactical Technology Office
+148,17.0,DARPA - Transformational Convergence Technology
+149,1.0,DARPA-MTO-BAA-09-25
+150,221.0,DOC NOAA - ERA Production
+151,18.0,DOT - FAA Aviation Research Grants
+152,13.0,DOT - FAA Centers of Excellence
+153,1370.0,DOT - Federal Railroad Administration
+154,81.0,DOT Federal Aviation Administration 
+155,4356.0,DOT Federal Highway Administration 
+156,4.0,DOT OSDBU
+157,3987.0,DOT-Federal Motor Carrier Safety Administration
+158,12.0,DOT-Federal Transit Administration - Inactive Site
+159,5658.0,DOT/Federal Transit Administration
+160,8.0,Defense Advanced Research Projects Agency
+161,26.0,Defense Health Agency
+162,24.0,Defense Intelligence Agency
+163,1205.0,Defense Logistics Agency
+164,407.0,Defense Threat Reduction Agency
+165,39.0,Democratic Republic of the Congo USAID-Kinshasa
+166,1328.0,Denali Commission
+167,85.0,Department of Agriculture
+168,33675.0,Department of Commerce
+169,566.0,Department of Defense
+170,11264248.0,Department of Education
+171,8.0,Department of Energy
+172,784.0,Department of Homeland Security
+173,93545.0,Department of Homeland Security - FEMA
+174,193219633.0,Department of Housing and Urban Development
+175,1126.0,Department of Justice
+176,1303.0,Department of State
+177,72.0,Department of Transportation
+178,1.0,Department of Veterans Affairs
+179,2658.0,Department of the Interior
+180,5004.0,Department of the Treasury
+181,18272.0,Dept of the Army -- Materiel Command
+182,205.0,Dept. of the Army  --  Corps of Engineers
+183,112.0,Dept. of the Army -- Space & Missle Defense Comman
+184,13832.0,Dept. of the Army -- USAMRAA
+185,255.0,Div of Contracting & Facilities Mgt
+186,45.0,DoD Education Activity
+187,59.0,Dominican Republic USAID-Santo Domingo
+188,46.0,East Africa USAID-Kenya
+189,11570.0,Economic Development Administration
+190,218.0,Economic Research Service
+191,7.0,Ecuador USAID-Quito
+192,226.0,Egypt USAID-Cairo
+193,52.0,El Salvador USAID-San Salvador
+194,101.0,Election Assistance Commission
+195,195.0,Emerging Markets Program 10.603
+196,12796.0,Employment and Training Administration
+197,1.0,Endangered Species
+198,7.0,Energy Cluster Program
+199,126.0,Engineer Research and Development Center
+200,35.0,Environmental Management Consolidated Business Cen
+201,28996.0,Environmental Protection Agency
+202,177.0,Ethiopia USAID-Addis Ababa 
+203,3.0,FAA - Aviation Next Gen
+204,601.0,FAA-COE-AJFE
+205,1.0,FAA-COE-GA
+206,2.0,FAA-COE-JAMS
+207,100.0,FAA-COE-TTHP
+208,6.0,Faculty Exchange Program 10.613
+209,441.0,Farm Service Agency
+210,380.0,Federal Communications Commission
+211,167.0,Federal Mediation and Conciliation Service
+212,903687.0,Fish and Wildlife Service
+213,6.0,Fisheries & Habitat Conservation
+214,114.0,Florida State Office
+215,135.0,Food Safety Inspection Service
+216,8903.0,Food and Drug Administration
+217,3844.0,Food and Nutrition Service
+218,58.0,Food for Progress 10.606
+219,1314.0,Foreign Agricultural Service
+220,102.0,Foreign Market Development Cooperator Prog 10600
+221,7803.0,Forest Service
+222,124.0,Fort Worth District
+223,4.0,General Services Administration
+224,5082.0,Geological Survey
+225,432.0,Georgia State Office
+226,76.0,Georgia USAID-Tbilisi
+227,3.0,Germany USAID - Frankfurt
+228,95.0,Ghana USAID-Accra
+229,262.0,Global Programs
+230,4880.0,Golden Field Office
+231,81.0,Guatemala USAID-Guatemala City
+232,25.0,Guinea USAID-Conakry
+233,122.0,Haiti USAID-Port Au Prince
+234,65.0,Hawaii State Office
+235,828.0,Headquarters
+236,46979.0,Health Resources and Services Administration
+237,1749.0,Homeless Providers Grant and Per Diem Program
+238,31.0,Honduras USAID-Tegucigalpa
+239,43.0,Hungary USAID-Budapest
+240,11.0,IV&V Test Agency
+241,1472.0,Idaho Field Office
+242,113.0,Idaho State Office
+243,40.0,Inactive Site
+244,74.0,India USAID-New Delhi
+245,2811.0,Indian Health Service
+246,4.0,Indiana State Office
+247,85.0,Indonesia USAID-Jakarta
+248,10074.0,Institute of Museum and Library Services
+249,1.0,Inter-American Foundation
+250,5.0,Interagency Health Affairs
+251,44.0,Interior Business Ceter
+252,553.0,Internal Revenue Service
+253,12.0,International Agricultural Educ Fellowship 10.619
+254,7.0,Iraq Assistance Office
+255,67.0,Iraq USAID-Baghdad
+256,4.0,Jamaica USAID-Kingston
+257,165.0,Jobs and Innovation Accelerator Challenge
+258,36.0,Jordan USAID-Amman
+259,1.0,KVkv
+260,13.0,Kansas City District
+261,30.0,Kansas State Office
+262,61.0,Kazakhstan USAID-Almaty
+263,321.0,Kentucky State Office
+264,211.0,Kenya USAID-Nairobi
+265,33.0,Kosovo USAID-Pristina
+266,7.0,Lebanon USAID-Beirut
+267,165.0,Legal Services for Veterans
+268,42.0,Liberia USAID-Monrovia
+269,144.0,Library of Congress
+270,17.0,Local and Regional Food Aid Procure Pgm LRP 10612
+271,13.0,Louisiana State Office
+272,1708.0,Low Income Taxpayer Clinic 
+273,25.0,Macedonia USAID-Skopje
+274,21.0,Madagascar USAID-Antananarivo
+275,131.0,Malawi USAID-Lilongwe
+276,36.0,Mali USAID -Bamako
+277,505.0,Maritime Administration
+278,285.0,Market Access Program 10.601
+279,93.0,Maryland State Office
+280,9.0,Massachusetts
+281,89.0,McGovern-Dole Food for Education 10.608
+282,101.0,Mexico USAID-Mexico City
+283,9.0,Michigan State Office
+284,24.0,Middle East Regional Platform USAID-MERP
+285,102.0,Migratory Birds
+286,57.0,Millennium Challenge Corporation
+287,837.0,Mine Safety and Health Administration
+288,28.0,Missile Defense Agency
+289,18.0,Mission and Install. Cmd. JBSA Ft. Sam Houston
+290,1.0,Mississippi State Office
+291,117.0,Missouri State Office
+292,1.0,Moldova USAID-Chisinau
+293,1.0,Mongolia USAID-Ulaanbaatar
+294,23.0,Montana State Office
+295,27.0,Morocco USAID-Rabat
+296,75.0,Mozambique USAID-Maputo
+297,7.0,Munitions Directorate
+298,44.0,NASA Ames Research Center
+299,2.0,NASA Armstrong Flight Research Center
+300,13.0,NASA Glenn Research Center
+301,20.0,NASA Goddard Space Flight Center
+302,2353.0,NASA Headquarters
+303,229.0,NASA Johnson Space Center
+304,4.0,NASA Kennedy Space Center
+305,58.0,NASA Langley Research Center
+306,16.0,NASA Marshall Space Flight Center
+307,7.0,NASA Stennis Space Center
+308,114.0,NAVAIR
+309,122.0,NAVAL FACILITIES ENGINEERING COMMAND
+310,106.0,NAVAL MEDICAL LOGISTICS COMMAND
+311,1.0,NAVFAC Atlantic
+312,14.0,NAVFAC Washington DC 
+313,10.0,NCA Contracting
+314,1.0,NEA Cooperative Agreements Office
+315,339.0,NNSA
+316,25.0,NRCS Iowa State Office
+317,120.0,NRCS Oregon
+318,3.0,NRCS-Alaska State Office
+319,50.0,NRCS-Arkansas State Office
+320,38.0,NRCS-Connecticut State Office
+321,14.0,NRCS-Illinois State Office
+322,32.0,NRCS-Maine State Office
+323,72.0,NSWC - CRANE
+324,172.0,NSWC Indian Head
+325,4.0,NUWC Division Keyport
+326,609.0,National Aeronautics and Space Administration
+327,1719.0,National Archives and Records Administration
+328,1.0,National Business Center
+329,31.0,National Council on Disability
+330,487.0,National Credit Union Administration
+331,2098.0,National Endowment for the Arts
+332,6376.0,National Endowment for the Humanities
+333,6978.0,National Energy Technology Laboratory
+334,80.0,National Geospatial-Intelligence Agency 
+335,337.0,National Highway Traffic Safety Administration
+336,371.0,National Institute of Corrections
+337,1848012137.0,National Institute of Food and Agriculture
+338,10630.0,National Institute of Justice
+339,4613.0,National Institute of Standards and Technology
+340,5032358.0,National Institutes of Health
+341,2141.0,National Oceanic and Atmospheric Administration
+342,1509809.0,National Park Service
+343,48031.0,National Science Foundation
+344,408.0,National Telecommunications and Information Admini
+345,615.0,National Veterans Sports Programs
+346,18400.0,Natural Resources Conservation Service
+347,1.0,Naval Air Warfare Center Aircraft Div. Lakehurst
+348,2.0,Naval Facilities Engineering Command Southwest
+349,5.0,Naval Information Warfare Center Pacific
+350,8.0,Naval Research Laboratory
+351,276.0,Naval Supply Systems Command
+352,2.0,Naval Surface Warfare Center - Carderock
+353,10.0,Nebraska State Office
+354,31.0,Nepal USAID-Kathmandu
+355,76.0,New Jersey State Office
+356,31.0,New Mexico State Office
+357,35.0,New York State Office
+358,8.0,Nicaragua USAID-Managua
+359,71.0,Nigeria USAID-Abuja
+360,45.0,Norman E. Borlaug Intl Ag Science and Tech 10.777
+361,2.0,North Carolina State Office
+362,34.0,North Dakota State Office
+363,656.0,Nuclear Regulatory Commission
+364,368.0,OASAM
+365,363.0,ODISP- OESP
+366,2.0,OUSD R-E  Basic Research Office
+367,32.0,Oak Ridge Office
+368,1890.0,Occupational Safety and Health Administration
+369,5345.0,Office for Victims of Crime
+370,32.0,Office of Acquisitions Management
+371,1.0,Office of Capital Access 
+372,23.0,Office of Disability Employment Policy
+373,6.0,Office of Global Criminal Justice
+374,11.0,Office of Global Womens Issues
+375,259.0,Office of Justice Programs
+376,2545.0,Office of Juvenile Justice Delinquency Prevention 
+377,20.0,Office of Local Defense Community Cooperation
+378,270.0,Office of Mental Health and Suicide Prevention
+379,42.0,Office of National Drug Control Policy 
+380,2663.0,Office of Naval Research
+381,3245.0,Office of Partnerships and Public Engagements
+382,8.0,Office of Policy ORES
+383,1588.0,Office of Procurement Operations - Grants Division
+384,12049.0,Office of Science
+385,1044.0,Office of Surface Mining
+386,6193.0,Office of the Assistant Secretary for Health
+387,9.0,Office of the Director of National Intelligence
+388,2113.0,Office of the Middle East Partnership Initiative
+389,412.0,Office of the National Coordinator
+390,87.0,Office of the Secretary
+391,12556.0,Office on Violence Against Women
+392,627.0,Office to Monitor-Combat Trafficking in Persons
+393,161.0,Ohio State Office
+394,59.0,Omaha District
+395,573.0,PHMSA Hazmat Grants - Inactive
+396,10.0,Pacific Island Area State Office
+397,74.0,Pakistan USAID-Islamabad
+398,1.0,Panama USAID-Panama City
+399,35.0,Paraguay USAID-Asuncion
+400,55.0,Pennsylvania State Office
+401,259.0,Peru USAID-Lima
+402,86.0,Philippines USAID-Manila
+403,2812.0,Pipeline and Hazardous Materials Safety Admin
+404,300.0,Preparedness - OG&T
+405,205.0,Press and Public Diplomacy
+406,17.0,Puerto Rico State Office
+407,100.0,Quality Samples Program 10.605
+408,46.0,RECORD ONLY
+409,839.0,Region 1
+410,842.0,Region 10
+411,887.0,Region 2
+412,955.0,Region 3
+413,866.0,Region 4
+414,926.0,Region 5
+415,848.0,Region 6
+416,1259.0,Region 7
+417,824.0,Region 8
+418,844.0,Region 9
+419,144.0,Rhode Island State Office
+420,45.0,Richland
+421,741.0,Risk Management Agency
+422,2396.0,Risk Management Education
+423,60470.0,Rural Business-Cooperative Service 
+424,3928.0,Rural Housing Service
+425,10599.0,Rural Utilities Service
+426,14.0,Russia USAID-Moscow
+427,61.0,Rwanda USAID-Kigali 
+428,24.0,SIPPRA
+429,855.0,SMART
+430,8.0,SPAWAR SYSTEMS CENTER
+431,8.0,Savannah District
+432,50.0,Scientific Cooperation and Research 10.961
+433,5.0,Seattle District
+434,17.0,Section 108 Foreign Currency 10.617
+435,121.0,Senegal USAID-Dakar
+436,36.0,Serbia USAID-Belgrade
+437,4850.0,Small Business Administration
+438,270.0,Social Security Administration
+439,4.0,Somalia USAID-Mogadishu
+440,228.0,South Africa USAID-Pretoria
+441,24.0,South Carolina State Office
+442,4.0,South Dakota State Office
+443,19.0,South Sudan (USAID)-Juba
+444,40.0,Southeast Crescent Regional Commission
+445,8.0,Sri Lanka USAID-Colombo
+446,4834.0,Substance Abuse and Mental Health Services Admin
+447,8324.0,Substance Abuse and Mental Health Services Adminis
+448,18.0,Sudan USAID-Khartoum
+449,257.0,Supportive Services for Veteran Families
+450,2.0,Tajikistan USAID-Dushanbe
+451,91.0,Tanzania USAID-Dar es Salaam
+452,1500.0,Tax Counseling for the Elderly 
+453,22.0,Technical Agricultural Assistance 10.960
+454,125.0,Technical Assistance for Specialty Crops 10.604
+455,4.0,Texas State Office
+456,128.0,Thailand USAID-Bangkok
+457,2.0,Trade Policy and Geographic Affairs
+458,210.0,Transportation Security Administration
+459,1283.0,U.S. Dept. of Treasury RESTORE Act Program
+460,9.0,U.S. Mission to ASEAN
+461,453.0,U.S. Mission to Afghanistan
+462,20.0,U.S. Mission to Albania
+463,11.0,U.S. Mission to Algeria
+464,48.0,U.S. Mission to Angola
+465,26.0,U.S. Mission to Argentina
+466,226.0,U.S. Mission to Armenia
+467,23.0,U.S. Mission to Australia
+468,73.0,U.S. Mission to Austria
+469,85.0,U.S. Mission to Azerbaijan
+470,77.0,U.S. Mission to Bangladesh
+471,173.0,U.S. Mission to Barbados
+472,8.0,U.S. Mission to Belarus
+473,2489.0,U.S. Mission to Belgium
+474,325.0,U.S. Mission to Belize
+475,56.0,U.S. Mission to Benin
+476,193.0,U.S. Mission to Bolivia 
+477,581.0,U.S. Mission to Bosnia and Herzegovina
+478,85.0,U.S. Mission to Botswana
+479,60.0,U.S. Mission to Brazil
+480,451.0,U.S. Mission to Brunei
+481,34.0,U.S. Mission to Bulgaria
+482,73.0,U.S. Mission to Burkina Faso
+483,15.0,U.S. Mission to Burundi
+484,15.0,U.S. Mission to Cambodia
+485,326.0,U.S. Mission to Cameroon
+486,29.0,U.S. Mission to Canada
+487,38.0,U.S. Mission to Cape Verde
+488,94.0,U.S. Mission to Central African Republic
+489,72.0,U.S. Mission to Chad
+490,80.0,U.S. Mission to Chile
+491,2477.0,U.S. Mission to China
+492,39.0,U.S. Mission to Colombia
+493,239.0,U.S. Mission to Costa Rica
+494,181.0,U.S. Mission to Cote d Ivoire
+495,43.0,U.S. Mission to Croatia
+496,4.0,U.S. Mission to Cuba
+497,16.0,U.S. Mission to Cyprus
+498,5.0,U.S. Mission to Denmark
+499,13.0,U.S. Mission to Djibouti
+500,5.0,U.S. Mission to Ecuador
+501,24.0,U.S. Mission to Egypt
+502,29.0,U.S. Mission to El Salvador
+503,10.0,U.S. Mission to Equatorial Guinea
+504,5.0,U.S. Mission to Eritrea
+505,3.0,U.S. Mission to Estonia
+506,48.0,U.S. Mission to Eswatini
+507,78.0,U.S. Mission to Ethiopia
+508,113.0,U.S. Mission to Fiji
+509,31.0,U.S. Mission to Finland
+510,87.0,U.S. Mission to France
+511,3.0,U.S. Mission to Gabon
+512,42.0,U.S. Mission to Gambia
+513,1090.0,U.S. Mission to Georgia
+514,43.0,U.S. Mission to Germany
+515,68.0,U.S. Mission to Ghana
+516,32.0,U.S. Mission to Greece
+517,159.0,U.S. Mission to Guatemala
+518,80.0,U.S. Mission to Guinea
+519,2.0,U.S. Mission to Guyana
+520,63.0,U.S. Mission to Haiti
+521,2.0,U.S. Mission to Honduras
+522,199.0,U.S. Mission to Hungary
+523,1458.0,U.S. Mission to India
+524,114.0,U.S. Mission to Indonesia
+525,165.0,U.S. Mission to Iraq
+526,3.0,U.S. Mission to Ireland
+527,81.0,U.S. Mission to Israel
+528,2.0,U.S. Mission to Italy
+529,65.0,U.S. Mission to Jamaica
+530,630615.0,U.S. Mission to Japan
+531,235.0,U.S. Mission to Jerusalem
+532,209.0,U.S. Mission to Jordan
+533,420.0,U.S. Mission to Kazakhstan
+534,66.0,U.S. Mission to Kenya
+535,140.0,U.S. Mission to Kosovo
+536,489.0,U.S. Mission to Kuwait
+537,207.0,U.S. Mission to Kyrgyzstan
+538,10.0,U.S. Mission to Laos
+539,17.0,U.S. Mission to Latvia
+540,327.0,U.S. Mission to Lebanon
+541,144.0,U.S. Mission to Lesotho
+542,20.0,U.S. Mission to Liberia
+543,7.0,U.S. Mission to Lithuania
+544,16.0,U.S. Mission to Luxembourg
+545,39.0,U.S. Mission to Madagascar
+546,693.0,U.S. Mission to Malawi
+547,562.0,U.S. Mission to Malaysia
+548,50.0,U.S. Mission to Mali
+549,31.0,U.S. Mission to Malta
+550,251.0,U.S. Mission to Mauritania
+551,6.0,U.S. Mission to Mauritius
+552,224.0,U.S. Mission to Mexico
+553,265.0,U.S. Mission to Moldova
+554,55.0,U.S. Mission to Mongolia
+555,107.0,U.S. Mission to Montenegro
+556,97.0,U.S. Mission to Morocco
+557,92.0,U.S. Mission to Mozambique
+558,101.0,U.S. Mission to Myanmar
+559,28.0,U.S. Mission to NATO
+560,415.0,U.S. Mission to Namibia
+561,26.0,U.S. Mission to Nepal
+562,303.0,U.S. Mission to New Zealand
+563,120.0,U.S. Mission to Nicaragua
+564,120.0,U.S. Mission to Niger
+565,314.0,U.S. Mission to Nigeria
+566,235.0,U.S. Mission to North Macedonia
+567,8.0,U.S. Mission to Norway
+568,409.0,U.S. Mission to Pakistan
+569,190.0,U.S. Mission to Panama
+570,32.0,U.S. Mission to Papua New Guinea
+571,33.0,U.S. Mission to Paraguay
+572,83.0,U.S. Mission to Peru
+573,41.0,U.S. Mission to Poland
+574,9.0,U.S. Mission to Portugal
+575,22.0,U.S. Mission to Qatar
+576,14.0,U.S. Mission to Romania
+577,277.0,U.S. Mission to Russia
+578,32.0,U.S. Mission to Rwanda
+579,92.0,U.S. Mission to Saudi Arabia
+580,131.0,U.S. Mission to Senegal
+581,365.0,U.S. Mission to Serbia
+582,6.0,U.S. Mission to Sierra Leone
+583,92.0,U.S. Mission to Singapore
+584,130.0,U.S. Mission to Slovakia 
+585,1410.0,U.S. Mission to Slovenia
+586,18.0,U.S. Mission to Somalia
+587,468.0,U.S. Mission to South Africa
+588,85.0,U.S. Mission to South Korea
+589,8.0,U.S. Mission to South Sudan
+590,4.0,U.S. Mission to Spain
+591,271.0,U.S. Mission to Sri Lanka
+592,19.0,U.S. Mission to Sudan
+593,26.0,U.S. Mission to Suriname
+594,19.0,U.S. Mission to Sweden
+595,15.0,U.S. Mission to Switzerland
+596,85.0,U.S. Mission to Tajikistan
+597,51.0,U.S. Mission to Tanzania
+598,65.0,U.S. Mission to Thailand
+599,1.0,U.S. Mission to Timor-Leste
+600,44.0,U.S. Mission to Togo
+601,28.0,U.S. Mission to Trinidad and Tobago
+602,23.0,U.S. Mission to Tunisia
+603,30.0,U.S. Mission to Turkey
+604,48.0,U.S. Mission to Turkmenistan
+605,663.0,U.S. Mission to Uganda
+606,405.0,U.S. Mission to Ukraine
+607,1.0,U.S. Mission to Uruguay
+608,121.0,U.S. Mission to Uzbekistan
+609,27.0,U.S. Mission to Venezuela
+610,2930.0,U.S. Mission to Vietnam
+611,198.0,U.S. Mission to Zambia
+612,126.0,U.S. Mission to Zimbabwe
+613,6.0,U.S. Mission to the Bahamas
+614,166.0,U.S. Mission to the Czech Republic
+615,182.0,U.S. Mission to the Democratic Republic of Congo
+616,169.0,U.S. Mission to the Dominican Republic
+617,37.0,U.S. Mission to the European Union
+618,2.0,U.S. Mission to the International Organizations
+619,1.0,U.S. Mission to the Marshall Islands
+620,137.0,U.S. Mission to the Philippines
+621,3.0,U.S. Mission to the Republic of Maldives
+622,26.0,U.S. Mission to the Republic of the Congo
+623,130.0,U.S. Mission to the United Kingdom
+624,6.0,U.S. Mission to the United Nations
+625,28.0,USACE Portland District
+626,51.0,USAF 347 Contracting Squadron
+627,40.0,USAID
+628,12.0,USAID - Barbados and Eastern Caribbean
+629,24.0,USAID-VIETNAM
+630,72.0,USDA NRCS NH State Office
+631,5.0,USDA-NRCS
+632,50.0,USDA-NRCS-Iowa State Office
+633,201.0,USDA-NRCS-MSD-Ft Worth Office
+634,166.0,USDA-NRCS-NHQ
+635,50.0,USUHS Medical - Non- Research Projects
+636,52.0,USUHS Medical Research Projects
+637,107.0,Uganda USAID-Kampala
+638,43.0,Ukraine USAID-Kiev
+639,259.0,Uniformed Services Univ. of the Health Sciences
+640,295.0,United States Coast Guard 
+641,1.0,United States Marine Corps
+642,235.0,Utah State Office
+643,1.0,Uzbekistan USAID-Tashkent
+644,41.0,VA Loan Guaranty Service
+645,255.0,VA National Cemetery Administration
+646,1370.0,VA Office of Mental Health
+647,281.0,VHA Member Services-Veterans Transportation 
+648,122.0,Vermont State Office
+649,1.0,Veterans Employment Pay for Success
+650,206.0,Veterans Employment and Training Service
+651,45.0,Veterans Legacy Grants Program
+652,23.0,Virginia State Office
+653,1913.0,Volunteer Income Tax Assistance
+654,16.0,Walla Walla District
+655,93.0,Washington Headquarters Services
+656,61.0,Washington State Office
+657,24.0,West Africa USAID-Ghana
+658,138.0,"West Bank, Gaza USAID-West Bank"
+659,47.0,Womens Bureau
+660,45.0,Woodrow Wilson Center
+661,88.0,Zambia USAID-Lusaka
+662,58.0,Zimbabwe USAID-Harare

@@ -1,0 +1,1160 @@
+,CategoryOfFundingActivity.Element:Text
+HL,12990
+ST,10022
+NR,9138
+O,8971
+ED,4006
+ENV,3552
+"ED, HL",2935
+ISS,2564
+LJL,2091
+AG,1244
+EN,1120
+T,1057
+"ENV, NR",1015
+HU,1014
+ELT,971
+"FN, HL",793
+"ENV, NR, ST",738
+"HL, ISS",697
+CD,670
+"ED, HL, ISS",581
+"AG, ENV, NR",456
+HO,397
+BC,393
+AR,363
+DPR,328
+IS,309
+RA,293
+FN,269
+"ED, ENV, FN, HL, ISS",262
+"ED, NR",258
+"ED, ENV, HL, ISS",236
+"ED, ENV, HL",219
+"ENV, HL",214
+RD,212
+"AG, CP, FN",188
+"ED, ENV, NR",176
+"NR, ST",148
+"ISS, LJL",143
+"LJL, ST",142
+"AR, HU",122
+"EN, ST",111
+"ED, ENV, NR, ST",111
+"ED, ENV",104
+"ED, ENV, ST",103
+"ED, FN, HL",99
+"ED, FN, HL, ISS",95
+"ENV, ST",93
+"ED, ST",79
+"ENV, NR, O",74
+ACA,70
+"ED, O",67
+"CD, HO",67
+"OZ, ST",64
+"CD, ENV, NR",59
+"ENV, HL, ISS",58
+"ED, ENV, FN, HL",56
+"HL, RA",55
+"CP, FN, HL",54
+"CD, DPR, ED, ELT, ENV, IS, NR, RD, ST",51
+"AG, NR",48
+"FN, HL, ISS",43
+IIJ,43
+"AG, FN",42
+"AG, ED",41
+"AG, ENV, NR, ST",40
+"DPR, NR",40
+"ELT, NR",40
+"IS, NR",40
+"NR, O",39
+"ED, ELT, ENV, NR",39
+"ED, ELT",37
+"CD, ED, ENV, NR",37
+"HL, ST",36
+"EN, ENV",36
+"O, RD",34
+"ENV, IIJ",32
+CP,31
+"CD, ED",30
+"ED, NR, ST",30
+"CD, ED, ENV, NR, RD",28
+"IS, NR, ST",28
+"AR, ED, HU",26
+"LJL, O",26
+"ED, HU",25
+"AG, EN, ENV, NR",25
+"HO, OZ",25
+"CD, ENV",24
+"EN, OZ",24
+"ED, ELT, ENV, NR, ST",24
+"AG, BC",23
+"ENV, IS, NR, ST",23
+"AG, CD",22
+"ELT, ENV, NR, O",21
+"BC, ST",20
+"ENV, IS, NR",20
+"ELT, T",20
+"HU, O",19
+"EN, IIJ",18
+"ED, ELT, NR",18
+"AG, CD, ENV, HL",18
+"BC, ENV, NR, ST",18
+"AR, HU, O",17
+"DPR, ED",17
+"CP, ST",16
+"CP, FN, ST",16
+"ED, ELT, ENV, FN, HL, ISS",15
+"CD, ED, ELT, ENV, NR, RD",15
+"AR, CD, HU, O",15
+"AG, ENV",15
+"AR, ED",15
+"ST, T",14
+"EN, ENV, ST",14
+"ENV, NR, RD",14
+"CP, HL, ST",14
+"BC, ELT",13
+"ENV, O",13
+"AG, ED, ENV, NR",13
+"ELT, HU, IS, LJL",13
+"AG, ST",13
+"BC, ED, ENV, NR, ST",13
+"ED, RA",13
+"CD, ED, ENV, NR, RD, ST",12
+"CD, ED, O",12
+"CD, ED, HU",12
+"ELT, ENV, NR",12
+"DPR, O",12
+"EN, RA",12
+"BC, CD, RD",11
+"ED, OZ",11
+"O, ST",11
+"CD, RD",11
+"CD, DPR, ED, ELT, ENV, FN, HL, HO, NR",11
+"ENV, FN, HL",10
+"BC, ED",10
+"AG, BC, EN",10
+"ED, ELT, ST",10
+"BC, CD, DPR, RD",10
+"AG, ELT, ENV, FN, HL, NR, ST",10
+"BC, DPR, ED, ENV, RD, ST",10
+"ELT, OZ",10
+"HO, O",10
+OZ,10
+"CD, DPR, ED, ELT, ENV, FN, HL, HO, O",10
+"CD, ED, RD",9
+"AG, ED, O",9
+"ED, EN",9
+"ELT, HU, LJL",9
+"ED, ELT, ENV",9
+"CD, ED, ENV",9
+"CD, O",8
+"CD, ED, ELT, ENV, NR",8
+"ED, HU, LJL",8
+"CD, ED, NR",8
+"CD, ENV, OZ",8
+"CD, ED, ELT, ENV, NR, RD, ST",8
+"AG, FN, ISS",8
+"BC, CD, EN",8
+"ED, LJL",8
+"EN, ENV, NR, ST",8
+"ED, IS",8
+"ENV, NR, RD, ST",7
+"CP, FN",7
+"AG, CD, FN",7
+"CD, LJL",7
+"AR, ED, HU, LJL, O",7
+"AG, FN, HL",7
+"ISS, OZ",7
+"CD, NR",7
+"CD, ED, ELT",7
+"AR, CD, ED, HU",7
+"AG, EN",6
+"EN, O",6
+"ELT, O",6
+"EN, T",6
+"ED, LJL, O",6
+"AG, ENV, FN, HL, NR",6
+"AG, ED, ENV, FN, NR",6
+"AG, DPR, ENV, NR",6
+"HL, O",6
+"ELT, RA",6
+"AG, ED, FN",6
+"HU, IS",6
+"ENV, FN, HL, ISS",6
+"AG, ED, HL",6
+"ED, EN, ST",6
+"ENV, IS",6
+"EN, ENV, NR",6
+"EN, NR, ST",6
+"HU, LJL",6
+"HU, LJL, O",6
+"CP, HL",6
+"LJL, RA",6
+"CD, RD, T",5
+"CD, DPR, ED, ELT, ENV, FN, HL, O, RD",5
+"DPR, ENV, NR, ST",5
+"AG, EN, NR",5
+"HL, HO, LJL",5
+"ED, ENV, HL, NR",5
+"ED, ISS, LJL",5
+"ED, ELT, HL",5
+"ED, ELT, FN, HL, ISS",5
+"DPR, ENV",5
+"ED, ENV, IS, NR, ST",5
+"ED, ELT, ENV, NR, RD, ST",5
+"CD, ED, ELT, ENV, NR, ST",5
+"AG, O",5
+"ENV, OZ",5
+"CD, O, RD",5
+"CD, ELT",5
+"IS, ST",5
+"CD, ED, ELT, HO, IS",5
+"CD, T",5
+"HL, LJL",5
+"BC, CD, ED",5
+"ED, ELT, HU, IS, LJL",5
+"CD, ED, HO",5
+"AG, ED, ENV, NR, ST",5
+"AG, EN, ENV, FN, NR, ST",5
+"AG, BC, CD, ED, ELT, ENV, NR, RD, ST",5
+"ED, IS, NR",5
+"CD, ED, ELT, LJL, RD",5
+"AG, BC, CD, ENV, FN, NR, ST",5
+"BC, CD",5
+"ELT, ST",5
+"CD, ED, ELT, ENV, IS, NR, RD, ST",5
+"ENV, IS, ST",5
+"CD, ED, ENV, NR, ST",5
+"ENV, HL, NR",5
+"ED, ELT, O",5
+"BC, ED, NR, ST",4
+"HO, RA",4
+"AG, ED, FN, HL",4
+"ED, ENV, NR, RD",4
+"AG, ENV, HL",4
+"DPR, HL",4
+"ED, HO",4
+"AG, ELT",4
+"CD, ENV, NR, RD",4
+"ED, ELT, HU, IS, LJL, ST",4
+"O, OZ",4
+"ELT, HU, IS, LJL, ST",4
+"O, T",4
+"ED, T",4
+"ELT, O, RD",4
+"ED, ENV, IS, NR",4
+"HU, NR, ST",4
+"HL, HU, LJL",4
+"ELT, EN",4
+"BC, ENV, ST",4
+"CD, ED, ELT, HO",4
+"BC, OZ",4
+"ENV, T",4
+"AG, ELT, ENV, FN, HL, NR",4
+"AR, CD, ED, ENV, HU",4
+"AR, BC, CD, DPR, ED, ELT, ENV, HL, HU, LJL, RD, ST",4
+"ED, EN, ENV, RD",4
+"AR, CD",4
+"CD, ED, LJL",4
+"AR, ED, EN, ENV, FN, IS, LJL, O",4
+"HO, HU, LJL",4
+"DPR, ENV, NR",4
+"HU, NR",4
+"CD, ELT, ENV, NR",4
+"RA, ST",4
+"AR, O",4
+"EN, ENV, ST, T",4
+"AG, ED, NR",4
+"NR, T",4
+"ENV, IIJ, NR, O",4
+"CD, ENV, NR, ST",4
+"AG, HL",3
+"DPR, ED, ENV, FN, HL, HO, O",3
+"O, RA",3
+"AG, CD, ENV, NR",3
+"BC, ED, ENV, ST",3
+"ED, ENV, HU, NR",3
+"ED, ENV, IS, ST",3
+"CD, ED, ST",3
+"ED, HU, NR",3
+"CP, ED, FN, HL",3
+"ED, HL, ISS, O",3
+"AG, EN, ENV, NR, ST",3
+"BC, CD, ELT",3
+"AG, ED, FN, HL, RD, ST",3
+"ED, NR, RD",3
+"AR, ED, ENV, HU",3
+"ENV, FN, HL, NR",3
+"AG, ENV, NR, O",3
+"CD, DPR, ED, ELT, ENV, FN, HL, O",3
+"ELT, ENV, NR, ST",3
+"CD, ED, ELT, HL, HU, LJL",3
+"ED, ELT, HL, HO, OZ",3
+"ED, ELT, EN",3
+"ED, ELT, HU",3
+"ENV, HU, NR",3
+"ED, ENV, NR, RD, ST",3
+"HL, HO",3
+"ENV, IIJ, NR",3
+"ED, ELT, HL, ISS",3
+"HL, ISS, LJL",3
+"CD, ED, LJL, O",3
+"AR, ED, ENV",3
+"DPR, IS",3
+"CP, FN, HL, ST",3
+"ED, ENV, HU",3
+"LJL, NR",3
+"CD, DPR, ED, ELT, ENV, FN, HL, HO, LJL, NR, RD",3
+"EN, RA, ST",3
+"AR, CD, ED, ELT, ENV, HL, HU, ST",3
+"DPR, ED, ENV, HL, HO, O",3
+"CD, ED, ELT, ENV, IS, NR, RD",3
+"DPR, ST",3
+"ED, ENV, FN, HL, IS, NR, RD, ST",3
+"ENV, IS, NR, RD, ST",3
+"ED, ENV, NR, T",3
+"AR, BC, ED, HU",3
+"CD, ED, HL",3
+"AR, ED, ST",3
+"ED, HU, ST",3
+"BC, ENV",3
+"HL, NR",3
+"CD, ED, ELT, FN, HL, O, RD",3
+"IS, LJL, ST",3
+"BC, CD, ED, ELT, HL, RD",3
+"ED, ENV, NR, O",3
+"AG, CP, FN, HL",3
+"AR, ED, O",3
+"AG, NR, ST",3
+"AR, BC, CD, ED, HU, IS, O, RD, ST",3
+"CD, ELT, ENV",3
+"BC, ED, ELT",3
+"CD, LJL, O",3
+"AG, CD, ED, ELT, ST",3
+"AR, HU, O, ST",3
+"ED, ELT, LJL",3
+"AG, DPR, ENV, FN, HL, NR, ST",3
+"ED, HL, LJL",3
+"CD, ED, EN, ENV, HU, LJL, ST",3
+"ELT, HL, HU, LJL",3
+"ELT, HU, LJL, ST",3
+"OZ, T",3
+"HO, ST",3
+"CD, ED, ELT, ENV, FN, HL, O, RD",3
+"AG, EN, ENV, ST",2
+"AR, ED, NR",2
+"AG, NR, O",2
+"CD, ENV, HL",2
+"ED, ENV, HU, O",2
+"BC, CD, ED, ELT, HL, IIJ, RD",2
+"CD, ELT, EN, ENV, HL, HO, IIJ, T",2
+"BC, ED, ST",2
+"AR, CD, HO, HU, O, RD",2
+"EN, ST, T",2
+"AG, BC, CD, FN",2
+"EN, ENV, OZ, ST, T",2
+"AR, BC, CD, ED, ELT",2
+"CD, EN, ENV, ST",2
+"CD, ED, ELT, HU",2
+"CD, HU",2
+"AR, ED, ELT, ST",2
+"BC, CD, ED, HU, RD",2
+"AG, ENV, FN, NR",2
+"ELT, LJL, ST",2
+"CD, ELT, HU, IS, LJL",2
+"AR, ED, ENV, HU, O",2
+"CD, ED, ELT, ENV",2
+"ED, ELT, HL, HU, IS",2
+"IS, LJL",2
+"AG, ED, ENV, FN, NR, RD, ST",2
+"AG, CD, ED",2
+"ELT, ISS, LJL",2
+"ED, ELT, ENV, HU, NR",2
+"AG, ED, ELT, ENV, NR",2
+"AR, ED, ENV, HU, LJL, O",2
+"AR, BC, CD, ED, HU, O, ST",2
+"CD, ED, ELT, EN, FN, HL, O, RD",2
+"AG, ED, FN, HL, ST",2
+"ELT, RD",2
+"BC, CD, ENV, NR, RD, ST",2
+"HL, OZ",2
+"AG, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, NR, RD, ST",2
+"AG, AR, CD, CP, DPR, ED, ELT, ENV, FN, HL, HO, LJL, NR, O, RD",2
+"AG, ED, ELT, EN, ENV, O",2
+"AR, CD, ED, ENV, IS, ISS, RD, ST",2
+"AR, CD, ED, ELT, HU",2
+"ED, ELT, HL, HU, LJL",2
+"HU, IS, LJL",2
+"EN, NR",2
+"AG, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HO, IS, ISS, LJL, NR, RD, ST",2
+"HL, IS, ST",2
+"CD, ED, ELT, O",2
+"AG, EN, ST",2
+"AR, CD, ED, ELT, HU, RD",2
+"AR, BC, ED, LJL, O",2
+"AR, ED, HU, O",2
+"AR, CD, ED, ENV, HU, O",2
+"BC, CD, ED, ELT, HL",2
+"HU, ST",2
+"ENV, LJL, NR",2
+"CD, HL",2
+"FN, HL, IS, ST",2
+"CD, DPR, ED, ENV, NR, RD, ST",2
+"ED, HU, O, ST",2
+"ELT, NR, ST",2
+"AG, BC, CP, ED, ENV, FN, HL",2
+"AG, AR, CD, DPR, ED, ELT, ENV, FN, HL, HO, LJL, NR, O, RD",2
+"AG, CD, ELT, FN, RD",2
+"BC, ELT, HL, O",2
+"NR, O, ST",2
+"EN, ENV, NR, RD",2
+"AR, BC, CD, ED, ENV, HU, IS, O, RD, ST",2
+"CD, ENV, NR, RD, T",2
+"AG, DPR, ED, ELT, ENV, NR",2
+"ED, FN, HL, ST",2
+"AG, ENV, HL, NR",2
+"AG, CP, ST",2
+"AG, CP, FN, ST",2
+"AR, CD, ED, ENV, HU, LJL",2
+"DPR, O, RD",2
+"ENV, HU",2
+"AR, CD, ED, NR",2
+"AR, CD, ED",2
+"AG, BC, CD, EN, ENV, HU, LJL, NR, RD, ST",2
+"ELT, LJL",2
+"ELT, IS, LJL, ST",2
+"ELT, O, RD, ST",2
+"HU, IS, LJL, ST",2
+"CD, ED, ENV, ST",2
+"ENV, NR, T",2
+"AR, NR",2
+"ED, ENV, NR, O, ST",2
+"ED, O, ST",2
+"ED, HL, HO, HU, ISS, LJL",2
+"CD, ED, HU, RD",2
+"ED, ENV, IS, NR, RD, ST",2
+"ENV, NR, O, ST",2
+"BC, CD, IIJ, RD",2
+"ELT, FN, HL",2
+"CD, ED, HL, ISS, LJL",2
+"ED, ISS",2
+"ED, ELT, HL, HO, HU, ISS, LJL",2
+"ED, HU, O",2
+"ED, ENV, HU, IS, NR",2
+"CD, HL, LJL",2
+"BC, EN, ENV",2
+"CD, ED, ELT, IS",2
+"AG, CP, DPR, ED, ENV, FN, HL",2
+"BC, CD, ELT, LJL",2
+"ENV, LJL",2
+"CD, ENV, HO",2
+"CD, ED, LJL, RD",2
+"AR, CD, ED, ENV, NR, T",2
+"AG, FN, ST",2
+"ELT, ENV",2
+"AR, ED, HU, ST",2
+"AG, BC, CD, ED, ELT, EN, ENV, FN, HL, NR, OZ, RD, ST, T",2
+"AR, ED, HU, ISS",2
+"ED, EN, NR, ST",2
+"CD, ENV, RD",2
+"AG, CD, ED, ENV, NR, ST",2
+"ED, ENV, O",2
+"AG, CD, ED, NR",2
+"CD, ED, HU, IS",2
+"CD, DPR",2
+"AG, DPR, ED, ENV, NR",2
+"CD, ED, ELT, NR, RD, ST",2
+"CD, ED, RD, ST",2
+"CD, ED, NR, RD, ST",2
+"AG, BC, ELT, NR, ST",2
+"ED, ELT, EN, ENV",2
+"AG, ED, EN, ENV, NR, RD, ST",2
+"ED, ELT, HL, HU, LJL, O",2
+"BC, CD, ED, ELT, EN, ENV, LJL, RD, ST",2
+"BC, CD, ED, ELT, RD",2
+"ED, ELT, FN, HL, HO, LJL",2
+"CD, EN, NR",2
+"AG, ED, EN, ENV, NR, ST",2
+"ED, HL, RA",2
+"CD, ED, ENV, HL, NR, RD",2
+"CD, ED, ELT, RD",2
+"CD, ENV, NR, O, T",2
+"BC, ENV, NR",2
+"BC, EN, ENV, T",2
+"AG, BC, CD, ED, HL, RD",2
+"CP, ED, ST",2
+"ELT, EN, ENV, OZ, T",2
+"AG, BC, CD",2
+"AG, ENV, FN, NR, ST",2
+"FN, HO, ISS",1
+"CD, ED, ELT, ENV, HU, NR, ST",1
+"BC, CD, CP, DPR, ED, EN, ENV, FN, HL, HU, LJL, NR, RD, ST",1
+"BC, CD, DPR, ED, EN, ENV, FN, HL, HU, NR, RD, ST",1
+"AR, ED, EN, ENV, LJL, O, ST",1
+"AG, HL, O",1
+"CD, DPR, ENV, HL, LJL, NR",1
+"BC, CD, ED, O",1
+"BC, ENV, IIJ, NR, ST",1
+"AR, CD, ED, ELT, FN, HL, HU, ISS, LJL, ST",1
+"CD, ED, ENV, HU",1
+"AR, ED, ELT, EN, ENV, HL, HU, IS, LJL, ST, T",1
+"CD, ST, T",1
+"AG, BC, RD",1
+"BC, CD, ED, ELT, LJL, RD",1
+"ELT, EN, IIJ",1
+"BC, EN, ENV, NR, ST",1
+"AR, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HU, NR, ST",1
+"ED, O, RD, ST",1
+"ED, ENV, IS, LJL",1
+"BC, ED, ELT, EN, ST",1
+"CD, ED, ELT, HU, IIJ, LJL",1
+"BC, ED, HU",1
+"BC, CD, DPR, ED, ELT, ENV, FN, HL, ISS",1
+"FN, ST",1
+"AR, ENV, O",1
+"CD, ED, EN, ENV, HU, ST",1
+"AG, BC, FN",1
+"CD, DPR, FN, HL",1
+"AG, DPR, ED, EN, ENV, FN, HL, HU, IS",1
+"CD, ENV, O",1
+"AR, ED, ELT, ENV, HL",1
+"AG, AR, CD, DPR, ED, ELT, ENV, FN, HL, HO, LJL, NR, RD",1
+"AG, ISS",1
+"AG, BC, ENV, HL, NR",1
+"AG, ELT, NR",1
+"CD, ED, IS, ST",1
+"BC, CD, RD, T",1
+"CD, DPR, ED, ELT, ENV, FN, HL, HO, LJL, RD",1
+"AG, AR, CD, ED, ENV, FN",1
+"BC, CD, CP, ED, ENV, HL, HU, LJL, NR, ST",1
+"CD, ELT, EN, RD",1
+"AR, CD, ED, ELT, ENV, HL, HU, IS, LJL, ST",1
+"AG, AR, BC, CD, ED, ELT, EN, ENV, FN, HU, LJL, O, ST",1
+"BC, ED, O",1
+"BC, CD, ED, HL, RD",1
+"CD, DPR, ED, ELT, ENV, FN, HL, ISS",1
+"EN, ENV, NR, O, ST",1
+"AG, BC, NR",1
+"ENV, IIJ, NR, ST",1
+"AR, BC, CD, ED, EN, ENV, FN, HL, HU, IS, LJL, NR, ST",1
+"ELT, EN, ST",1
+"BC, CD, ED, ELT, EN, ENV, FN, HL, HU, LJL, O",1
+"AG, AR, BC, CD, ED, ELT, ENV, FN, HL, HO, HU, O",1
+"AR, CD, ED, HU, ST",1
+"AG, ED, ELT, EN, ENV, FN, HL, NR, ST",1
+"ELT, HL",1
+"AG, CP, DPR, ED, ENV, FN, HL, ST",1
+"AR, CD, ED, ELT, ENV, FN, HL, HO, LJL, NR",1
+"ED, IS, NR, ST",1
+"AR, BC, CD, ED, ENV, HL, HU, LJL, O",1
+"AR, CD, ED, ELT, ENV, HU, ST",1
+"BC, ENV, IS, ST",1
+"AG, BC, CD, ED, FN, NR",1
+"CP, DPR, ED, ENV, HL, HO, O, T",1
+"CD, ED, ENV, NR, O, RD",1
+"ED, ENV, FN, HL, IS, NR, ST",1
+"CD, ED, ENV, IS, NR, ST",1
+"CD, ENV, LJL, NR, O",1
+"AG, BC, ST",1
+"ED, FN",1
+"ED, ELT, IS, ST, T",1
+"CD, DPR, ENV, NR, RD, ST",1
+"CD, ED, IS, NR, RD, ST",1
+"ENV, NR, O, RD",1
+"CD, ED, ELT, FN, HL, HO, ISS, LJL, RD",1
+"ED, ELT, HL, ISS, LJL, O",1
+"CP, DPR, ED, ELT",1
+"ED, IS, NR, RD, ST",1
+"AG, BC, CP, FN, HL, IS, RD, ST",1
+"BC, CD, ELT, RD, ST",1
+"CD, DPR, ENV, NR",1
+"CD, ISS",1
+"AG, BC, CD, ED, ELT, O, RD",1
+"CD, ED, EN, ENV, NR, RD, ST",1
+"AG, BC, CD, ED, FN, ST",1
+"ED, ELT, ST, T",1
+"BC, ELT, ENV",1
+"AG, BC, CD, O",1
+"BC, CP, HL",1
+"LJL, NR, RD",1
+"CD, DPR, ED, ENV, FN, HL, HO, O, T",1
+"DPR, ED, ENV, NR",1
+"AG, BC, ENV, NR",1
+"AG, BC, CP, ED, ELT, ENV, FN, HL, IS, ST",1
+"BC, CD, IS, RD, ST, T",1
+"CD, ED, ELT, ISS, LJL, RD",1
+"BC, CD, ELT, LJL, O",1
+"HU, O, ST",1
+"DPR, ED, ELT, ISS, O",1
+"AG, CD, EN, ENV, FN, HL, NR",1
+"AG, AR, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, LJL, NR, O, RD",1
+"BC, CD, CP, ED, ENV, FN, HL, IS, NR, RD, ST",1
+"CD, ELT, LJL, O, RD",1
+"AG, ED, ELT",1
+"AG, BC, CP, ED, ELT, ENV, FN, HL, IS, NR",1
+"AR, BC, CD, CP, ED, EN, ENV, HU, LJL, NR, RD, ST",1
+"AG, CP, ED, ELT, ENV, FN, HL, NR",1
+"AG, CP, ED, ELT, FN, HL",1
+"BC, ED, ELT, ISS, LJL, O",1
+"CP, ENV, ST",1
+"ED, ENV, HL, HU, NR",1
+"CD, ED, ENV, IS, NR, RD, ST",1
+"AG, FN, RD",1
+"ED, NR, O",1
+"CD, ED, IS",1
+"HU, IS, NR",1
+"CD, CP, ED, HL",1
+"AG, DPR, ED, ENV, FN, HL, ST",1
+"AG, CD, ED, ELT, ENV, FN, HL, ISS, LJL, NR, RD, ST",1
+"BC, CD, CP, ED, ENV, FN, HL, NR, ST",1
+"CD, ENV, IS, ST",1
+"AR, BC, CD, ED, ENV",1
+"CD, DPR, ED, EN, ENV, FN, HL, HO, NR, O",1
+"BC, ED, ELT, IS",1
+"BC, CD, DPR, ELT, FN, HL, HO, ISS, LJL, O, RD",1
+"CP, ED, ENV, HL, NR",1
+"FN, HL, HO, T",1
+"BC, CD, CP, HO",1
+"AG, ED, ELT, FN, HL, NR",1
+"CD, ED, ELT, HL, NR, RD",1
+"CD, ST",1
+"BC, ED, ELT, ENV, HO, NR, RD",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, FN, HO, IS, ISS, LJL, NR, RD, ST",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, HL, NR, O, ST",1
+"ENV, FN, HL, IS, ST",1
+"BC, CD, ED, ELT, LJL, O, RD",1
+"ED, ELT, ENV, IS, NR, O, ST",1
+"CD, ED, ELT, NR, RD",1
+"AG, RD, ST",1
+"ED, ELT, HL, RA",1
+"CD, HO, T",1
+"ED, ELT, HL, HO, ISS",1
+"ELT, IS, ISS",1
+"FN, IS",1
+"BC, CD, ED, ELT, ENV, FN, HU, NR, RD",1
+"AR, CD, ED, ELT, ENV, NR, RD",1
+"CD, HU, LJL",1
+"BC, ENV, RD",1
+"CD, ED, ENV, FN, HL, IS, ST",1
+"DPR, ED, O",1
+"AR, HL",1
+"CD, CP",1
+"CD, ED, ELT, ENV, HU, IS, NR, RD",1
+"CD, ED, ELT, ENV, HU, NR, RD",1
+"EN, RD",1
+"AG, CD, ENV, NR, O, ST",1
+"IS, NR, O, ST",1
+"DPR, ED, ENV, FN, HO, O",1
+"ED, ELT, T",1
+"LJL, T",1
+"AG, CD, ED, EN, ENV, NR",1
+"AG, CD, ENV, FN, NR, RD",1
+"ELT, EN, O, RD, ST",1
+"BC, CD, ED, EN, ENV, FN, HL, RD",1
+"ED, ENV, FN, HL, NR, ST",1
+"BC, ED, ENV",1
+"AG, ED, ELT, EN, NR, RD",1
+"AG, CD, EN",1
+"BC, CD, ELT, ISS",1
+"AG, DPR, NR",1
+"CD, ED, ENV, T",1
+"EN, ENV, O",1
+"AG, O, RD",1
+"BC, CD, ELT, LJL, O, RD",1
+"CD, DPR, ED, ENV, HU, NR, RD, ST",1
+"BC, CD, ED, ELT, ENV, IS, NR, RD",1
+"CD, ISS, LJL",1
+"ELT, ISS",1
+"CD, ENV, ST",1
+"BC, ED, ELT, ISS, O, ST",1
+"CD, DPR, ED, ENV, RD",1
+"AG, BC, CD, DPR, ELT, ENV, FN, RD",1
+"AR, ENV, HU",1
+"BC, ED, ELT, IS, ST",1
+"AG, AR, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HO, ISS, LJL, NR, RD",1
+"AG, AR, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, LJL, NR, RD",1
+"CD, DPR, ED, ELT, ENV, NR, RD",1
+"FN, HL, IS",1
+"ED, ELT, ENV, HL, IS, NR, ST",1
+"AG, CD, DPR, ED, ELT, FN, HL, HO, HU, NR, RD, ST, T",1
+"EN, HU",1
+"EN, IS",1
+"ED, HL, IS, RD",1
+"AG, EN, ENV, FN, IS, NR, O",1
+"HL, LJL, ST",1
+"CD, LJL, RD",1
+"CP, FN, HL, IS",1
+"CD, CP, HL",1
+"ED, ELT, ENV, IS, NR, RD, ST",1
+"ED, ELT, ENV, HL, NR",1
+"ENV, RD",1
+"ENV, FN, IS, NR, ST",1
+"AG, BC, ED, ELT, ENV, HL, IS, NR, RD, ST",1
+"CD, ELT, HO",1
+"CP, ED, HL, ST",1
+"CD, DPR, LJL, ST",1
+"HL, HU, ST",1
+"HU, LJL, RD",1
+"ENV, HL, NR, ST",1
+"CD, DPR, ED, ENV, HL, NR, ST",1
+"BC, CD, ENV, NR, O, RD, ST",1
+"CD, ED, ELT, HL, HO, RD",1
+"AR, BC, CD, ED, ELT, EN, ENV, O, ST",1
+"AR, BC, CD, ED, ELT, EN, ENV, HL, O, ST",1
+"HL, IS",1
+"AG, CP",1
+"ED, ELT, FN, HL, HO, ISS, LJL",1
+"AR, CD, ED, ELT, ENV, HU",1
+"BC, CP, ED, HL",1
+"AG, DPR, ED, EN, ENV, FN, HL, NR, RD, ST",1
+"AG, CP, ED, FN, HL",1
+"EN, ENV, HL",1
+"AR, CD, ED, ELT, HL, HU, IS, ISS, LJL, RD",1
+"ED, ELT, IS, NR, RD",1
+"CP, ENV, FN, HL, ST",1
+"LJL, RD",1
+"DPR, ELT, ENV, IS, NR, ST",1
+"BC, CD, ELT, O, RD",1
+"CD, HL, O",1
+"AR, CD, DPR, ED, ELT, ENV, FN, HL, HO, NR",1
+"NR, RD",1
+"ED, IS, NR, RD",1
+"AG, BC, CD, ED, ELT, EN, ENV, LJL",1
+"CD, ED, ENV, NR, O, ST",1
+"DPR, ENV, NR, RD",1
+"BC, ELT, ST",1
+"BC, CD, EN, NR, RD",1
+"ED, ELT, ENV, HU",1
+"ENV, IS, NR, T",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, IS, LJL, NR, RD, ST",1
+"AG, AR, CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, ISS, LJL, NR, RD",1
+"RD, ST",1
+"ENV, HL, ST",1
+"ENV, FN, HL, IS, NR, RD, ST",1
+"CD, ED, ELT, HL, HO, IS, RD",1
+"AG, ENV, IS, NR",1
+"AG, BC, ED, ENV, FN, ST",1
+"CD, ED, ENV, NR, T",1
+"ED, HO, HU, ISS, LJL",1
+"AG, DPR, ED, ENV, NR, ST",1
+"CD, CP, FN",1
+"CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, LJL, O, T",1
+"AR, CD, ENV, NR, O, RD",1
+"ENV, IS, T",1
+"AG, BC, CP, HL",1
+"AG, CD, ED, ENV, FN, HL, NR",1
+"DPR, ED, O, RD",1
+"AG, BC, CD, CP, ED, ELT, ENV, FN, HL, IS, NR, RD, ST",1
+"AG, BC, CD, ED, ELT, ENV, FN, HL, IS, ST",1
+"AR, ED, ENV, NR",1
+"AG, BC, CD, ED, RD",1
+"AG, ED, ELT, ENV, ST",1
+"AG, BC, EN, NR",1
+"AG, BC, CD, ED, ELT, ENV, HL, LJL, NR, RD",1
+"BC, CD, ED, ELT, IS, LJL, RD",1
+"CD, ED, ELT, NR, O",1
+"AG, CD, DPR, ED, ELT, ENV, FN, HL, HO, LJL, NR, O, RD",1
+"AG, BC, CP, ED, FN, HL, IS, NR, RD, ST",1
+"AG, BC, CP, ELT, FN, HL, ST",1
+"ED, HL, IS, ST",1
+"ED, ELT, ENV, IS, NR, ST",1
+"CD, ED, ELT, ENV, LJL",1
+"DPR, ENV, HL, HO, O",1
+"AR, CD, ED, O",1
+"AR, CD, ENV, HU, NR, O, RD",1
+"ED, ELT, ENV, NR, RD",1
+"DPR, EN, RD, ST",1
+"BC, DPR, ELT, ENV, HL, RD, ST",1
+"AR, BC, ED, ELT, HU, ST",1
+"CD, ENV, LJL, NR",1
+"CD, ELT, EN, NR, O",1
+"CD, ED, ELT, EN, ENV, FN, HL, HO, LJL, T",1
+"DPR, ENV, IS, NR",1
+"CD, DPR, ED, NR, RD",1
+"BC, ED, LJL, O",1
+"AR, BC, CD, ED, ENV, HL, HU, NR, ST",1
+"ED, EN, O",1
+"AR, CD, ED, ENV, NR",1
+"ED, HL, HO, HU, IS, O, T",1
+"AG, DPR, ENV, FN, HL, NR",1
+"AG, BC, CP, ED, ELT, ENV, HL, IS, NR, RD, ST",1
+"AG, BC, CP, ED, ELT, ENV, HL, IS, NR, ST",1
+"AG, ED, EN, ENV, FN, HL, NR",1
+"AG, ED, FN, HL, NR",1
+"ED, HL, HU",1
+"ED, ELT, EN, ENV, NR, ST",1
+"ENV, RA",1
+"AG, BC, CD, ED, ELT, EN, ENV, FN, HL, NR, RD, T",1
+"ENV, FN, HL, NR, RD, ST",1
+"BC, HL",1
+"AG, BC, ED, ELT, ENV, HL, NR, RD, ST",1
+"HL, IS, O, ST",1
+"IS, O",1
+"BC, CD, ED, ENV, FN, IS, LJL, NR",1
+"AG, ED, ELT, ENV, NR, ST",1
+"CD, ENV, HU, NR, O, RD",1
+"ENV, LJL, NR, ST",1
+"ED, HU, RD",1
+"IS, NR, RD, ST",1
+"ED, ELT, ENV, IS, O, ST",1
+"BC, ELT, O, RD",1
+"EN, ENV, O, RD, ST",1
+"CD, DPR, ELT, HO",1
+"CD, ED, ELT, HO, IS, O",1
+"AG, CD, ED, O",1
+"ED, HU, LJL, O",1
+"IS, NR, O",1
+"ED, ELT, EN, NR",1
+"BC, EN",1
+"ELT, HL, ISS",1
+"CP, ED, HL, O, ST",1
+"AG, CD, HO",1
+"AG, AR, BC, CD, ED, ELT, ENV, FN, HL, HU, IS, ISS, LJL, ST",1
+"AG, AR, BC, CD, CP, DPR, ED, ELT, ENV, FN, HL, HO, LJL, NR, O, RD",1
+"AG, ED, ENV",1
+"AG, ED, ELT, NR, ST",1
+"CD, ED, ENV, RD, ST",1
+"ENV, HU, ST",1
+"CD, ELT, ENV, NR, RD",1
+"CD, DPR, ELT, IS, LJL, ST",1
+"EN, ENV, HL, ST",1
+"DPR, LJL, O",1
+"CD, HU, LJL, O",1
+"CD, ED, ENV, LJL, NR, ST",1
+"AG, BC, CD, ED, ELT, EN, ENV, HL, NR, RD, ST",1
+"BC, CP, ED, ELT, IS, LJL, ST",1
+"BC, CP, ELT, IS, LJL, ST",1
+"CD, ELT, HU, IS, LJL, O, ST",1
+"ELT, HL, HU, ST",1
+"AR, ED, RD, ST",1
+"CD, ED, ELT, HU, IS, LJL",1
+"ELT, LJL, O",1
+"AG, CD, EN, ENV, FN, NR, ST",1
+"EN, O, T",1
+"ENV, FN, NR, ST",1
+"AG, ED, EN, ENV, FN, HL, NR, RD, ST, T",1
+"ELT, HL, HU, IS, LJL, ST",1
+"CD, ED, ELT, HU, IS, LJL, O",1
+"ED, ELT, HU, LJL, O",1
+"HU, NR, T",1
+"BC, ED, ELT, ENV, HL, IS, NR, O, RD",1
+"AG, CD, ENV, FN, NR",1
+"AG, ED, ENV, FN, HL, NR, ST",1
+"AR, IS",1
+"CD, EN, ENV, HO, ST",1
+"ED, ENV, IS",1
+"CD, HU, IS",1
+"FN, NR",1
+"ED, ELT, HO, HU, ISS, LJL",1
+"DPR, ED, ENV, IS, NR, ST",1
+"CD, DPR, ED, ELT, FN, HL, HO, O",1
+"AG, BC, CD, ED, ELT, ENV, IS, NR, RD, ST",1
+"AR, BC, ED, HU, LJL, O, ST",1
+"CD, ED, ENV, FN, HL, IS, NR, ST",1
+"AR, CD, ED, ELT, EN, ENV, HU, ST",1
+"ED, HO, IS, ST",1
+"AR, ED, ENV, HL, HU, LJL",1
+"IS, LJL, O, ST",1
+"ED, HL, HU, IS, LJL",1
+"AR, CD, ED, EN, ENV, HU",1
+"ED, NR, O, ST",1
+"ED, ENV, RD, ST",1
+"AR, BC, CD, ED, EN, ENV, HU, IS, ST",1
+"AG, BC, CD, ED, ENV, NR",1
+"CP, ENV, FN, HL, IS, NR",1
+"AG, CP, ENV, FN, HL, IS, NR, ST",1
+"AG, BC, CP, DPR, FN, ST",1
+"ED, FN, HL, NR, ST",1
+"ED, ENV, HL, ST",1
+"BC, CD, ED, ENV, LJL, NR, ST",1
+"CD, ED, EN, ENV, ST",1
+"ED, HL, LJL, O",1
+"DPR, FN",1
+"AG, BC, CP, ED, ELT, ENV, HL, RD, ST",1
+"AG, BC, CD, CP, ELT, ENV, FN, HL, NR, RD, ST",1
+"AG, ED, ENV, FN, NR, O, RD, ST",1
+"ED, ELT, HL, HO, HU, LJL",1
+"CD, ED, ELT, ENV, HL, RD, ST",1
+"CD, ED, ISS, LJL",1
+"BC, ED, ELT, EN, O, RD, ST",1
+"BC, CD, ED, ELT, ENV, HU, RD",1
+"FN, HL, ST",1
+"CD, ELT, HU, IS, LJL, ST",1
+"ENV, NR, RA",1
+"AG, BC, CP, DPR, ED, ELT, ENV, FN, HL, NR, ST",1
+"CD, DPR, ED, ELT, EN, ENV, HL, HO, NR, O",1
+"AG, EN, ENV, IS, NR, ST",1
+"AG, CP, DPR, ED, ELT, ENV, FN, HL, NR, ST",1
+"DPR, ED, ELT, HU, IS, ST",1
+"DPR, ED, ELT, HU",1
+"AG, EN, NR, ST",1
+"CP, ELT, HL, HU, IS, ST",1
+"AR, ED, O, ST",1
+"ELT, HU, IS",1
+"ELT, HU, O",1
+"ED, ELT, HL, HO",1
+"ED, ELT, IS, LJL, ST",1
+"AR, BC, CD, ED, EN, ENV, HL, HU, IS, O, ST",1
+"CP, ED, ELT, HU, IS, LJL, ST",1
+"DPR, ED, HU, IS, LJL, ST",1
+"ENV, IS, NR, RA",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, ISS, LJL, NR, RD, ST",1
+"ELT, HL, HU, IS",1
+"EN, ENV, NR, RD, ST",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, HU, ISS, LJL, NR, RD, ST",1
+"AG, BC, CD, DPR, ED, ELT, ENV, HL, HO, LJL",1
+"CD, ED, NR, ST",1
+"AG, ELT, ENV, NR",1
+"CP, ED, ELT, HU, IS, ST",1
+"ELT, IS",1
+"CD, RD, ST",1
+"ED, ELT, HL, HU",1
+"ED, ELT, LJL, ST",1
+"AR, ED, ENV, HU, NR",1
+"AG, BC, CD, ELT, ENV, FN, ISS, NR",1
+"HO, HU, IS, ISS, LJL, NR, O",1
+"CD, ED, ELT, ENV, ST",1
+"AG, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, IS, ISS, LJL, NR, RD, ST",1
+"CD, ED, ELT, HU, IS, LJL, ST",1
+"CD, ELT, HU, IS, LJL, RD, ST",1
+"IS, RD",1
+"CD, ED, ENV, FN, HL, IS, NR, RD, ST",1
+"CD, ED, HU, LJL",1
+"BC, CD, ED, ELT, EN, ENV, HU, LJL, ST",1
+"CD, ED, ENV, RD",1
+"ED, RD, ST",1
+"ED, IS, ST",1
+"BC, CD, ED, RD",1
+"AG, ELT, FN",1
+"AG, ED, EN, ENV, FN, HL, NR, RD, ST",1
+"AG, CD, ED, ELT, ENV",1
+"ED, ELT, HL, HU, IS, LJL",1
+"ED, NR, RA",1
+"CD, DPR, HU, O",1
+"CD, HO, HU",1
+"ENV, HU, IS",1
+"AG, ED, ELT, O",1
+"DPR, ED, ENV",1
+"CD, ENV, RA",1
+"CD, ED, ELT, ENV, FN, HL, O, RD, ST",1
+"BC, CD, CP, DPR, ED, ELT, EN, ENV",1
+"BC, CD, HU, LJL",1
+"BC, CD, ELT, RD",1
+"AG, ED, ELT, FN, HL",1
+"CD, CP, ED, IS, O, ST",1
+"CD, ED, ELT, IS, O, ST",1
+"BC, CP, ED, ELT, HL, HO, ST",1
+"NR, RA",1
+"HO, LJL, O",1
+"CD, ED, EN, ENV, HL, HO, ISS, LJL, O, T",1
+"AG, DPR, ED, EN, ENV, NR",1
+"AR, BC, CD, DPR, ELT, EN",1
+"AR, ED, ENV, O",1
+"ED, EN, ENV, NR, ST",1
+"AR, CD, ED, HL",1
+"DPR, ED, ELT, ENV, FN, HL, HO, O",1
+"CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, LJL, NR, RA, RD, ST, T",1
+"CD, ED, EN, ENV, HU, RD",1
+"CD, ED, ISS, O, RD",1
+"CP, ED, IS, O, ST",1
+"ED, ELT, HU, ST",1
+"ED, ELT, HU, LJL, ST",1
+"CD, ED, ENV, HU, RD",1
+"CD, ELT, ENV, HU, NR, RD",1
+"CP, ED, ELT, HU, IS, LJL",1
+"HL, HU, IS",1
+"HL, HU, IS, ISS, LJL, ST",1
+"AG, CD, ED, ENV, RD",1
+"AG, BC, CD, DPR, ED, ELT, FN, HL, ISS, LJL, ST",1
+"CD, DPR, ED, ELT, HU, IS, ST",1
+"BC, RD",1
+"AG, CD, ED, ELT, ENV, NR, ST",1
+"AG, AR, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HU, IS, ISS, LJL, NR, O, RD, ST, T",1
+"BC, CD, ED, ELT, EN, ENV, IS, RD, ST",1
+"ED, ELT, ENV, OZ, RD, ST",1
+"AR, BC, CD, ED, ELT, HL, HU, ST",1
+"CD, ED, EN, ENV, NR, RD",1
+"CD, CP, ED",1
+"AR, CD, DPR, ED, ELT, HL, HU, IS, ISS, RD, ST",1
+"CD, CP, ED, ELT, ENV, NR, RD, ST",1
+"AR, CD, ED, HU, RD",1
+"CD, ED, ELT, EN, ENV, NR, ST",1
+"HL, HU",1
+"ED, ELT, HU, IS, ST",1
+"CD, OZ",1
+"AR, BC, HU",1
+"ED, O, OZ",1
+"BC, FN, HL, ST",1
+"AG, BC, CD, ED, ELT, ENV, FN, HO, IS, ISS, LJL, OZ, RD, ST",1
+"AR, BC, HU, ST",1
+"EN, ENV, NR, OZ, ST",1
+"CD, ENV, NR, O",1
+"BC, EN, ENV, NR",1
+"HL, O, RA",1
+"ELT, HO",1
+"AG, DPR",1
+"ED, ELT, HO, ISS",1
+"CD, ED, ELT, ENV, RD",1
+"AG, CD, ED, FN, NR, OZ",1
+"AG, CD, ED, FN, OZ",1
+"BC, CD, ELT, ENV, HL, LJL, RD",1
+"CP, DPR, ED, ELT, ENV, HL, ST",1
+"BC, CD, ENV, NR, RD, T",1
+"BC, CD, DPR, ED, ELT, LJL",1
+"ED, ELT, O, ST",1
+"AG, EN, ENV, NR, O",1
+"AG, ED, ELT, EN, ENV",1
+"AG, CD, CP, ED, ELT, ENV, HL",1
+"BC, CD, O, OZ, RD",1
+"AG, ENV, FN, HL, HO, NR",1
+"AG, BC, DPR, ED, ENV, NR",1
+"CD, ED, HO, IS",1
+"AG, IS, ST",1
+"AG, CD, FN, HL",1
+"AG, BC, ED, ELT, O",1
+"AG, CP, DPR, ED, ELT, ENV, HL",1
+"ED, ELT, ENV, O",1
+"ED, EN, OZ, ST",1
+"AR, CD, ED, ELT, O",1
+"AR, ENV, ST",1
+"CD, DPR, ST",1
+"CD, ED, ELT, ENV, LJL, NR, ST",1
+"EN, ENV, HO, OZ, ST",1
+"AG, BC, CD, DPR, ED, ELT, FN",1
+"AG, AR, BC, CD, EN, ENV, HL, HU, LJL, NR, ST",1
+"HL, HO, OZ",1
+"AR, CD, ED, HU, RD, ST",1
+"AR, ED, HU, RD, ST",1
+"CD, DPR, ED, ELT, ENV, NR, RD, T",1
+"CD, ED, O, RD",1
+"BC, CD, ED, ENV, HL, RD, ST",1
+"AR, CD, ED, ELT",1
+"AR, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, HU, LJL, RD, ST",1
+"ED, ELT, ENV, HL, HU, LJL, ST",1
+"BC, ED, ELT, O",1
+"AR, BC, CD, ED, ENV, FN, HL, HU",1
+"BC, ELT, O",1
+"AG, ED, ENV, FN, NR, ST",1
+"CD, ELT, EN, ENV, HL, HO, T",1
+"AR, CD, DPR, ED, ELT, EN, ENV, HL, NR, ST",1
+"CD, ED, EN, ENV, IS, NR, RD, ST",1
+"AR, BC, CD, ED, ELT, ENV, HU, NR, ST",1
+"CD, EN",1
+"AR, HU, ST",1
+"DPR, ED, EN, ENV, HL, HU, ST",1
+"ED, ENV, HL, LJL, NR, RD",1
+"AR, CD, ED, ELT, HL, HU, ISS, LJL",1
+"AG, CD, DPR, ED, ENV, FN, NR, ST",1
+"CD, CP, DPR, ED, ELT, FN, HL, HO, RD",1
+"CD, ED, ENV, HU, ST",1
+"ED, EN, NR",1
+"CD, DPR, ELT, HL, HO",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, ISS, LJL, NR, RD",1
+"CD, ED, ELT, IS, ST",1
+"AR, BC, CD, ED",1
+"AG, AR, BC, CD, ED, ENV, HU, O, ST",1
+"AG, CP, DPR, ED, EN, ENV, FN, HL, NR, ST",1
+"ISS, RA",1
+"ED, ST, T",1
+"CD, ED, ENV, HL, ST",1
+"AG, AR, BC, CD, CP, ED, ELT, EN, ENV, O, ST",1
+"AG, BC, CD, ELT, EN, ENV, FN, OZ, RD",1
+"AG, BC, DPR, ED, EN, ENV, FN, HL, ISS, LJL, NR",1
+"ED, EN, ENV",1
+"AG, CP, ENV",1
+"AG, DPR, ED, ELT, ENV, FN, HL, HO, NR",1
+"AG, CP, DPR, ED, ENV, FN, HL, RD",1
+"AG, CP, ED, ENV, FN, HL",1
+"AG, CP, ENV, HL, ST",1
+"LJL, O, ST",1
+"ED, ELT, ENV, FN, HL",1
+"CD, IS, LJL",1
+"BC, ED, ELT, ENV, ST",1
+"BC, NR, ST",1
+"CD, DPR, EN, LJL",1
+"AG, AR, BC, CD, ED, ELT, EN, ENV, FN, HL, HU, O, ST",1
+"AG, BC, CD, DPR, ELT, HL, HO, LJL, RD",1
+"BC, EN, NR",1
+"CD, CP, ED, ELT, ENV, FN, HL",1
+"AG, CD, CP, DPR, ENV",1
+"AR, BC, CD, ENV, HL, O",1
+"AR, BC, ST",1
+"AR, CD, ED, ELT, RD",1
+"BC, CD, ED, ELT, O, RD",1
+"AR, CD, ED, ENV, HU, LJL, O, ST",1
+"AR, CD, ED, ELT, ENV, HU, ISS, LJL, RD",1
+"AR, CD, ED, ENV, HU, ST",1
+"AG, BC, CD, ED, ELT, EN, ENV, IS, ST",1
+"AR, CD, ED, ELT, FN, HL, HU, ISS, LJL, RD",1
+"AR, ED, EN, ENV, HL, HU, NR, ST",1
+"AG, BC, CD, DPR, ED, ELT, EN, ENV, FN, HL, HU, IS, LJL, NR, O, RD, ST",1
+"AG, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HU, IS, NR, RD, ST, T",1
+"CD, DPR, ED, EN, ENV, HU, O, RD, ST",1
+"AG, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HU, ISS, LJL, NR, O, RD, ST",1
+"AR, CD, ED, ELT, EN, ENV, ST",1
+"BC, CD, ED, ELT, O",1
+"BC, RD, ST",1
+"ACA, AG, AR, BC, CD",1
+"AR, ED, ELT, ENV, FN, HL, HU, NR",1
+"CD, ELT, EN, ST, T",1
+"DPR, ELT, ENV, NR, ST",1
+"BC, O, RD",1
+"AR, CD, DPR, ED, ENV, HL, RD",1
+"AR, BC, CD, ED, ENV, HL, LJL, RD, ST",1
+"ENV, HL, HO, ISS",1
+"BC, CD, ED, ELT",1
+"IIJ, T",1
+"BC, FN",1
+"AG, BC, EN, ENV, NR, ST",1
+"CD, ELT, ENV, OZ",1
+"BC, CD, ED, ENV, NR, ST",1
+"EN, ENV, T",1
+"CD, ED, ENV, LJL",1
+"ED, ELT, HO",1
+"ED, ELT, EN, IS, ST",1
+"BC, CD, ED, ELT, LJL",1
+"CD, NR, O",1
+"AR, CD, HL, O",1
+"CD, ED, ENV, HL, HU, NR",1
+"ED, ELT, ENV, HU, LJL, ST",1
+"BC, ED, HL, LJL, O",1
+"ED, EN, ENV, HL",1
+"ED, EN, ENV, HL, IS",1
+"BC, EN, ST",1
+"ELT, EN, ENV, O, ST",1
+"AG, AR, BC, CD, ED, EN, ENV, FN, HL, HU, ST",1
+"ENV, O, ST",1
+"AR, BC, CD, ED, ENV, HL, HU, LJL, ST",1
+"DPR, ENV, ST",1
+"HU, LJL, ST",1
+"CD, DPR, ELT, ENV, NR, ST",1
+"ELT, NR, RD",1
+"RD, T",1
+"HL, HU, IS, LJL, O",1
+"EN, ENV, NR, RD, T",1
+"CD, ELT, LJL, RD",1
+"CD, ED, ELT, HL, RD",1
+"CD, ED, NR, RD",1
+"BC, ED, ELT, O, ST",1
+"AG, AR, BC, CD, CP, DPR, ED, ELT, EN, ENV, FN, HL, HO, HU, IS, ISS, LJL, NR, RA, RD, ST, T",1
+"BC, CD, ED, ELT, EN, ENV, HL, HU, LJL, RD, ST, T",1
+"BC, CD, ED, ELT, ISS, LJL, O, RD",1
+"CD, ED, ELT, ISS, LJL, O",1
+"ED, HL, ST",1
+"ELT, HL, NR",1
+"CD, DPR, ED, ELT, ENV, FN, HL, HO",1
+"CP, IS, NR, ST",1
+"AG, ENV, FN, HL, ST",1
+"BC, DPR, O",1
+"AG, RD",1
+"DPR, ED, ENV, NR, RD, ST",1
+"AG, AR, BC, CD, ED, ELT, ENV, HU, NR",1
+"AG, CD, EN, ENV, FN, NR",1
+"CD, ED, ELT, NR",1
+"AG, CD, DPR, ED, ELT, EN, ENV, FN, HL, HO, HU, NR, RD, ST, T",1
+"AG, BC, EN, FN, O",1
+"AR, BC, CD, ED, EN, ENV, HU, RD, ST",1
+"DPR, T",1
+"HO, ISS",1
+"BC, CP, FN, HL, ST",1
