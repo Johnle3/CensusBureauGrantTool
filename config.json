@@ -1,7 +1,6 @@
 {
     "base_dir": "/Users/johnle/Downloads/DTSP_discover/",
     "capstone_project_dir": "/Users/johnle/Downloads/DTSP_discover/CapstoneProject",
-    "census_repo_path": "/Users/johnle/Downloads/DTSP_discover/census-data-downloader",
-    "env_file_path": "/Users/johnle/Downloads/DTSP_discover/env.txt"
+    "census_repo_path": "/Users/johnle/Downloads/DTSP_discover/census-data-downloader"
 }
   
