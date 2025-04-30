@@ -1,56 +1,89 @@
-# Census Grants Tool Project
+# Census Bureau Grants Tool
 
-This capstone project develops a web-based tool that supports novice grant applicants (SLaNT users) by providing the top 100 relevant Census Bureau statistics with features like filtering, trend visualizations, and exportable graphics.
+A web-based application designed to support novice grant applicants (SLaNT users) by providing access to the top 100 relevant Census statistics. Features include filtering, trend visualizations, and exportable graphics.
 
-## Repository Structure
+---
 
-- **ConnectToCensusAPI.ipynb**: Jupyter Notebook with API connection code
-- **LICENSE**: Project license
-- **README.md**: This file
-- **requirements.txt**: Python package dependencies
+## 🛠 Project Structure
 
-## Progress & Milestones
+- `ConnectToCensusAPI.ipynb`: Jupyter Notebook for testing API connections
+- `DownloadFromDataDownloader.py`: Script to pull ACS data via CLI
+- `config.json`: Stores local file paths
+- `.env`: Stores your API key securely
+- `requirements.txt`: All Python dependencies
 
-- **Project Initialization**: Created repository, established structure, set up README.
-- **Census API Key Setup**: Reviewed the Census API User Guide, obtained and integrated the API key via a `.env` file using `python-dotenv`.
-- **API Integration & Testing**: Developed basic API request functions and tested endpoints.
-- **Front-End & Visualization Prototyping**: Designed wireframes and began data visualizations.
+---
 
-## Setup Instructions
+## ✅ Setup Instructions
 
 ### Prerequisites
 
 - Python 3.7+
-- Jupyter Notebook (or JupyterLab)
-- A valid Census API key
+- Jupyter Notebook
+- Valid Census API key
 
-### Installation
+### Clone the Repository
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Data-Science-Capstone.git
-   cd Data-Science-Capstone
-Install Dependencies:
+```bash
+git clone https://github.com/Johnle3/CensusBureauGrantTool
+cd CensusBureauGrantTool
+```
 
-bash
-Copy
+### Install Dependencies
+
+```bash
 pip install -r requirements.txt
-Configure Your API Key:
+```
 
-Create a .env file in the project root with:
-env
-Copy
-CENSUS_API_KEY=YOUR_CENSUS_API_KEY
-Ensure .env is added to your .gitignore.
-Running the Project
-Launch Jupyter Notebook:
+### Configure Your Environment
 
-bash
-Copy
+1. Create a `.env` file with:
+   ```
+   CENSUS_API_KEY=your_api_key_here
+   ```
+2. Download `config.json` from the repo and update file paths to match your local directory structure.
+
+---
+
+## ▶️ Running the App Locally
+
+```bash
 jupyter notebook
-Then open and run the ConnectToCensusAPI.ipynb notebook.
+```
 
-Future Work
-Enhance data filtering and visualization features.
-Develop a fully interactive web interface.
-Implement user authentication and personalized dashboards.
+- Open and run `ConnectToCensusAPI.ipynb` to test the API connection
+- To run the full app, open `app.ipynb` and execute:
+  ```python
+  app.run_server(jupyter_mode='external', port=8051)
+  ```
+
+---
+
+## 🔁 Data Updates
+
+To pull fresh ACS data using the Census Data Downloader:
+
+```bash
+cd census-data-downloader
+pip install -e .
+python DownloadFromDataDownloader.py
+```
+
+Data will be saved to the directory specified in your `config.json` file.
+
+---
+
+## 🔧 Future Work
+
+- Improve visualization performance and UI responsiveness
+- Implement cloud hosting (e.g., AWS, Ravenna)
+- Build NLP-based grant text matching and smart data suggestions
+- Add user authentication and saved dashboards
+
+---
+
+## 📂 Notes
+
+- Do not upload large data files to GitHub
+- Keep `.env` and local data paths secure
+- Refer to shared Box folder for archived project materials and documentation
