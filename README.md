@@ -87,3 +87,10 @@ Data will be saved to the directory specified in your `config.json` file.
 - Do not upload large data files to GitHub
 - Keep `.env` and local data paths secure
 - Refer to shared Box folder for archived project materials and documentation
+
+## Team Info
+
+- UVA School of Data Science
+- John Le
+- Brandon Mistry
+- Colin Wilkie
